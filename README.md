@@ -1,0 +1,1 @@
+# This program is able to read/write .bmp images
